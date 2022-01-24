@@ -39,7 +39,7 @@ const Footer = () => {
                             </li>
                             <li className="nav-item">
                                 <h6 className="navbar fw-bold" id='login-name'
-                                >{username}</h6>
+                                >Welcome {username}</h6>
                             </li>
                         </ul>
                     </div>
