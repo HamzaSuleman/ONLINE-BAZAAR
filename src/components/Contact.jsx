@@ -51,7 +51,7 @@ const Contact = () => {
                         <form >
                             <div class="mb-3">
                                 <label for="exampleForm" class="form-label">Full Name</label>
-                                <input type="text" class="form-control" id="fullname" placeholder="Hamza Suleman"/>
+                                <input type="text" class="form-control" id="fullname" placeholder="Enter Name"/>
 </div>
                             <div class="mb-3">
                                 <label for="exampleFormControlInput1" class="form-label">Email address</label>
